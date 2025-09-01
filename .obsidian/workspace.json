@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/09 Transportquests und Drachebabys.md",
+                "file": "Events/12 Ein Blick in die Hölle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Transportquests und Drachebabys"
+              "title": "12 Ein Blick in die Hölle"
             }
           }
         ]
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/09 Transportquests und Drachebabys.md",
+                "file": "Events/12 Ein Blick in die Hölle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 09 Transportquests und Drachebabys"
+              "title": "Graph of 12 Ein Blick in die Hölle"
             }
           }
         ],
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,17 +217,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0d16fa0bf71551eb",
+  "active": "14663c377c79c42e",
   "lastOpenFiles": [
-    "index.md",
-    "Events/09 Transportquests und Drachebabys.md",
     "Missing info.md",
+    "Vektoria.md",
+    "Events/09 Transportquests und Drachebabys.md",
+    "index.md",
     "NPCs/Nabasu.md",
     "Objekte/Todd RIP.md",
     "Objekte/Kristall der Resistenz.md",
     "Events/11 Aufbruch zur Oase.md",
     "Events/12 Ein Blick in die Hölle.md",
-    "Vektoria.md",
     "Events/01 Ausbruch der Tiere.md",
     "Spielercharaktere/Myrddin Beynon.md",
     "Spielercharaktere/Cuthral Marchog.md",
