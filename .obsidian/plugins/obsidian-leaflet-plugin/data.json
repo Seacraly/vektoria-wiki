@@ -1,0 +1,888 @@
+{
+  "mapMarkers": [
+    {
+      "id": "OaseVonEldorad1",
+      "lastAccessed": 1756498954134,
+      "markers": [
+        {
+          "id": "ID_1909f9b9da7b",
+          "type": "Event",
+          "loc": [
+            2907.8661521951162,
+            2712.8151660221893
+          ],
+          "link": "Die Entführung von Henry Godwins",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -1.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Orte/Oase von Eldorad.md"
+      ]
+    },
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1756506715036,
+      "markers": [
+        {
+          "id": "ID_689be90b59c9",
+          "type": "Event",
+          "loc": [
+            2912.3518608382683,
+            2735.7961364107523
+          ],
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e978e9c85939",
+          "type": "Event",
+          "loc": [
+            2922.25135577488,
+            2725.8966414741403
+          ],
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Die Entführung von Henry",
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_892ba85baa0a",
+          "type": "Town",
+          "loc": [
+            2906.6875,
+            2721
+          ],
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f919f8b97958",
+          "type": "Event",
+          "loc": [
+            2872.6875,
+            2749
+          ],
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b94bf82b0909",
+          "type": "Person",
+          "loc": [
+            1033.84375,
+            1350.5
+          ],
+          "link": "Mr Clock",
+          "layer": "%5B%5BEldorad_Handlerkreuz.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_791ab8697a69",
+          "type": "Ort",
+          "loc": [
+            1065.6875,
+            1773
+          ],
+          "link": "Die Akademie der Übernatürlichen Künste",
+          "layer": "%5B%5BSelentis.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_faea3b480b58",
+          "type": "Ort",
+          "loc": [
+            934.84375,
+            1110.5
+          ],
+          "link": "die große Arena",
+          "layer": "%5B%5BSelentis.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Orte/Insel des letzten Athemzugs.md"
+      ]
+    },
+    {
+      "id": "Selentis1",
+      "lastAccessed": 1756573018622,
+      "markers": [
+        {
+          "id": "ID_594aabfb58c9",
+          "type": "Ort",
+          "loc": [
+            1081.6524043462969,
+            1764.2314190604359
+          ],
+          "link": "Akademie der Übernatürlichen Künste",
+          "layer": "%5B%5BSelentis.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a979b908dbca",
+          "type": "Ort",
+          "loc": [
+            940.2310481089874,
+            1117.9358210559315
+          ],
+          "link": "die große Arena",
+          "layer": "%5B%5BSelentis.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8fac859faca",
+          "type": "Ort",
+          "loc": [
+            692.84375,
+            1395.5
+          ],
+          "link": "Löwenkessel",
+          "layer": "%5B%5BSelentis.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Städte/Selentis.md"
+      ]
+    },
+    {
+      "id": "Eldorad1",
+      "lastAccessed": 1756592836174,
+      "markers": [
+        {
+          "id": "ID_da0a596aabb8",
+          "type": "Person",
+          "loc": [
+            1040,
+            1350
+          ],
+          "link": "Mr Clock",
+          "layer": "%5B%5BEldorad_Handlerkreuz.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6591796875,
+            -0.6770833333333334
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b0b084b6bf8",
+          "type": "Ort",
+          "loc": [
+            1151.655975683765,
+            1443.2049404017434
+          ],
+          "link": "Drachenrose",
+          "layer": "%5B%5BEldorad_Handlerkreuz.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a6ac969aa68",
+          "type": "Ort",
+          "loc": [
+            504.6875,
+            1135
+          ],
+          "link": "Drei Monde, Diebesguilde",
+          "layer": "%5B%5BEldorad_Handlerkreuz.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8858d8d94bfa",
+          "type": "Ort",
+          "loc": [
+            1066.6875,
+            1257
+          ],
+          "link": "Händlergilde Godwins",
+          "layer": "%5B%5BEldorad_Handlerkreuz.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b899aa3b4be9",
+          "type": "Ort",
+          "loc": [
+            890.6875,
+            909
+          ],
+          "link": "Händlergilde Löwenherz",
+          "layer": "%5B%5BEldorad_Handlerkreuz.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b869fb489928",
+          "type": "Event",
+          "loc": [
+            1068.34375,
+            1408.5
+          ],
+          "link": "04 Gerüchte (und eine Nachricht von Mortimer)",
+          "layer": "%5B%5BEldorad_Handlerkreuz.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bc98988287b",
+          "type": "Event",
+          "loc": [
+            840,
+            994
+          ],
+          "link": "07 Warnung des Falken",
+          "layer": "%5B%5BEldorad_Handlerkreuz.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4853515625,
+            -0.546875
+          ],
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "Vektoria1",
+      "lastAccessed": 1756727249866,
+      "markers": [
+        {
+          "id": "ID_0bf82ae9bbaa",
+          "type": "Town",
+          "loc": [
+            529.34375,
+            617.2561308772547
+          ],
+          "link": "Selentis",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Die Hauptstadt von Vektoria",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_695af8d8ba48",
+          "type": "Town",
+          "loc": [
+            508.6528436291605,
+            212.56002003931397
+          ],
+          "link": "Balora",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Die Zwergenstadt",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_597b59fa1ae9",
+          "type": "Town",
+          "loc": [
+            420.0214280248092,
+            633.5691425893092
+          ],
+          "link": "Eldorad",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8750020255379829,
+            -0.7734375
+          ],
+          "description": "Händlerstadt",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb9b4bfa2899",
+          "type": "default",
+          "loc": [
+            632.34375,
+            105.58644800406813
+          ],
+          "link": "Insel Gefängniss",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Das hauptgefängniss von Vektoria",
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8ea680b7ba9",
+          "type": "Ort",
+          "loc": [
+            428.86026278964107,
+            709.2257673230607
+          ],
+          "link": "Oase von Eldorad",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9794889638015015,
+            -0.7897135416666666
+          ],
+          "description": "",
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28bbb9eaf9ea",
+          "type": "Town",
+          "loc": [
+            395.34375,
+            883.3910151402333
+          ],
+          "link": "Wolfshein",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_991a4919a9b9",
+          "type": "Town",
+          "loc": [
+            657.34375,
+            879.3922726896666
+          ],
+          "link": "Glitzerquell",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sitz der Beynon Familie",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89c82a98a9c8",
+          "type": "Town",
+          "loc": [
+            334.34375,
+            383.54820881939276
+          ],
+          "link": "Schattental",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b584af8a81a",
+          "type": "Town",
+          "loc": [
+            505.34375,
+            425.53500455034333
+          ],
+          "link": "Krataka",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a908cb2bba79",
+          "type": "Town",
+          "loc": [
+            135.34375,
+            891.3885000413667
+          ],
+          "link": "Menzoberranzan",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b6829994a99",
+          "type": "Town",
+          "loc": [
+            145.34375,
+            658.461752295855
+          ],
+          "link": "Die Wilden Lande",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a6bcae94a6b",
+          "type": "Town",
+          "loc": [
+            220.34375,
+            340.56172747580047
+          ],
+          "link": "Silberwind",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a498bf99a09",
+          "type": "Town",
+          "loc": [
+            616.34375,
+            368.5529246297675
+          ],
+          "link": "Immerglück",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b1adb39898b",
+          "type": "Event",
+          "loc": [
+            433.57799084537004,
+            583.8874603440303
+          ],
+          "link": "02 Das Ritual im Wald",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6968e849fa78",
+          "type": "Event",
+          "loc": [
+            466.81200956113776,
+            575.0446240814047
+          ],
+          "link": "01 Ausbruch der Tiere",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18a9aa289be8",
+          "type": "Ort",
+          "loc": [
+            420.72853480599576,
+            588.6687295448471
+          ],
+          "link": "Polopops Hütte",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99797a2859f9",
+          "type": "Event",
+          "loc": [
+            401.2830983233657,
+            669.9836751742538
+          ],
+          "link": "03 Kaninchenjagd",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9252929687500001,
+            -0.7389322916666666
+          ],
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8ea4b29899a",
+          "type": "Ort",
+          "loc": [
+            391.50513736477046,
+            669.6325050836748
+          ],
+          "link": "Temple von Irori",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a7b2a5a4b6b",
+          "type": "Ort",
+          "loc": [
+            460.6248252257555,
+            541.4694369467063
+          ],
+          "link": "Erwin Vernichterschädels Anwesen",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b49da8a6b59",
+          "type": "Event",
+          "loc": [
+            410.7737971521039,
+            682.52873594436
+          ],
+          "link": "09 Transportquests und Drachebabys",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b4a9808896a",
+          "type": "Person",
+          "loc": [
+            406.5311564649846,
+            704.4473339767679
+          ],
+          "link": "Flari",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_893918ebfac9",
+          "type": "Ort",
+          "loc": [
+            402.38542556762695,
+            753.0201845786603
+          ],
+          "link": "Durchgang (Wolfshein-Eldorad)",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b9b6b49a97b",
+          "type": "Ort",
+          "loc": [
+            425.5972605214234,
+            654.4393083633595
+          ],
+          "link": "Haus der Gruppe",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb98abf828d8",
+          "type": "Event",
+          "loc": [
+            426.8567971728102,
+            675.5218332093597
+          ],
+          "link": "10  (Un)tote im Nebel",
+          "layer": "%5B%5BVektoria.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9329415412146604,
+            -0.7860243121782938
+          ],
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Vektoria.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#9c4ea2",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Town",
+      "iconName": "house-user",
+      "color": "#bb3535",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Town"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Event",
+      "iconName": "exclamation",
+      "color": "#35ae32",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 0.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Ort",
+      "iconName": "bookmark",
+      "color": "#27c4b9",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Person",
+      "iconName": "address-card",
+      "color": "#aaa031",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

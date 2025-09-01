@@ -1,0 +1,1 @@
+Göttin der Ehre, Gerechtigkeit, Herrlichkeit und Tapferkeit

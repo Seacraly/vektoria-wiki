@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "3a3defde6c8794b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf2e17354d31aa9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d16fa0bf71551eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Missing info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Missing info"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f0c57452a1cb4ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d411ed7f3e197e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb20e384e4cb341",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "469cdf6b1dc89724",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "733e995a1933fdf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "2bc9ee197582c4e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e28ff44cf0e13fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0fa281f758ef01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Grimm Donnerzorn RIP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Grimm Donnerzorn RIP"
+            }
+          },
+          {
+            "id": "974bee7b1ec6ba3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Objekt Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Objekt Template"
+            }
+          },
+          {
+            "id": "a844404fecd347e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "592026ed8e2a52d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Objekte/Wunschkristall.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wunschkristall"
+            }
+          },
+          {
+            "id": "9d1a4ca7763344f6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "14663c377c79c42e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Missing info.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224408,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Missing info"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "6eb20e384e4cb341",
+  "lastOpenFiles": [
+    "index.md",
+    "NPCs/Nabasu.md",
+    "Objekte/Todd RIP.md",
+    "Objekte/Kristall der Resistenz.md",
+    "Events/11 Aufbruch zur Oase.md",
+    "Missing info.md",
+    "Events/12 Ein Blick in die Hölle.md",
+    "Vektoria.md",
+    "Events/01 Ausbruch der Tiere.md",
+    "Spielercharaktere/Myrddin Beynon.md",
+    "Spielercharaktere/Cuthral Marchog.md",
+    "Spielercharaktere/Henry Godwins.md",
+    "NPCs/Grimm Donnerzorn RIP.md",
+    "NPCs/Venomir.md",
+    "Organisationen/Drei Monde, Diebesguilde.md",
+    "Organisationen/Eldrics Schatten, Die Anhänger von Zyterax.md",
+    "Familien/Familie Stoforge.md",
+    "Familien/Familie Godwins.md",
+    "Familien/Familie Donnerzorn.md",
+    "Familien/Familie Beynon.md",
+    "Familien/Familie Abbylon.md",
+    "Städte/Eldorad.md",
+    "Städte/Die Wilden Lande.md",
+    "Städte/Balora.md",
+    "Spielercharaktere/Theodomedikt Erzhüter.md",
+    "Spielercharaktere/Spatzenhirn.md",
+    "Relationships/Familie Beynon.canvas",
+    "Relationships/Familie Godwins.canvas",
+    "Bilder/Myrddin portrait 2.2.png",
+    "Bilder/Henry.jpg",
+    "Bilder/Spatzenhirn.jpg",
+    "Relationships",
+    "Familien",
+    "Geschichte",
+    "Götter",
+    "Städte",
+    "Organisationen",
+    "Objekte",
+    "NPCs",
+    "Pets etc",
+    "Events",
+    "Bilder/Insel_Gefängniss_Floor_2_PV.jpg",
+    "Bilder/Insel_Gefängniss_Floor_1_PV.jpg",
+    "Bilder/Die_Oase_von_Eldorad.jpg",
+    "Bilder/Eldorad_Handlerkreuz.jpg",
+    "Bilder/Selentis.jpg",
+    "Bilder/Balora.jpg",
+    "Bilder/Vektoria.jpg"
+  ]
+}

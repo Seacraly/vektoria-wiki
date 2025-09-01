@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"df50a27dcc10f8ee","x":1200,"y":-880,"width":400,"height":400,"type":"file","file":"NPCs/Gwenya Beynon.md"},
+		{"id":"49c7c353894662f3","x":2120,"y":-880,"width":400,"height":400,"type":"file","file":"NPCs/Sindarin Beynon.md"},
+		{"id":"eda32417671833dc","type":"file","file":"NPCs/Gaius Beynon.md","x":-680,"y":-880,"width":400,"height":400},
+		{"id":"1659919439889c54","type":"file","file":"NPCs/Eira Beynon.md","x":120,"y":-880,"width":400,"height":400},
+		{"id":"990240f4d7483666","type":"file","file":"Spielercharaktere/Myrddin Beynon.md","x":-280,"y":-280,"width":400,"height":400},
+		{"id":"2e3e0cac822f0a16","x":680,"y":-1720,"width":400,"height":400,"type":"file","file":"NPCs/Kathelyn Beynon RIP.md"},
+		{"id":"0179c6ff74616e96","x":1680,"y":-280,"width":400,"height":400,"type":"file","file":"NPCs/Dylan Beynon.md"}
+	],
+	"edges":[
+		{"id":"2a515d0cbdfdc57b","fromNode":"eda32417671833dc","fromSide":"right","toNode":"1659919439889c54","toSide":"left","toEnd":"none","label":"Verheiratet"},
+		{"id":"0268aea56155782e","fromNode":"1659919439889c54","fromSide":"bottom","toNode":"990240f4d7483666","toSide":"top"},
+		{"id":"0af44efc767ae550","fromNode":"eda32417671833dc","fromSide":"bottom","toNode":"990240f4d7483666","toSide":"top"},
+		{"id":"f4ae011eb564c95a","fromNode":"df50a27dcc10f8ee","fromSide":"right","toNode":"49c7c353894662f3","toSide":"left","toEnd":"none","label":"Verheiratet"},
+		{"id":"595fbac1b7a5c33a","fromNode":"df50a27dcc10f8ee","fromSide":"bottom","toNode":"0179c6ff74616e96","toSide":"top"},
+		{"id":"dba5f274a6fa8ef2","fromNode":"49c7c353894662f3","fromSide":"bottom","toNode":"0179c6ff74616e96","toSide":"top"},
+		{"id":"64e2ee2877d71dc4","fromNode":"2e3e0cac822f0a16","fromSide":"bottom","toNode":"1659919439889c54","toSide":"top"},
+		{"id":"cb3c42151ea2d0bd","fromNode":"2e3e0cac822f0a16","fromSide":"bottom","toNode":"df50a27dcc10f8ee","toSide":"top"}
+	]
+}

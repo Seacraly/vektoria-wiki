@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 2214677
+      }
+    },
+    {
+      "query": "path:Orte  ",
+      "color": {
+        "a": 1,
+        "rgb": 1621449
+      }
+    },
+    {
+      "query": "path:NPCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 12734875
+      }
+    },
+    {
+      "query": "path:Objekte  ",
+      "color": {
+        "a": 1,
+        "rgb": 3091225
+      }
+    },
+    {
+      "query": "path:Spielercharaktere  ",
+      "color": {
+        "a": 1,
+        "rgb": 8790233
+      }
+    },
+    {
+      "query": "path:Organisationen  ",
+      "color": {
+        "a": 1,
+        "rgb": 12482841
+      }
+    },
+    {
+      "query": "path:Städte  ",
+      "color": {
+        "a": 1,
+        "rgb": 12985380
+      }
+    },
+    {
+      "query": "path:Götter  ",
+      "color": {
+        "a": 1,
+        "rgb": 1455917
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.04427083333333,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3403172142390299,
+  "close": true
+}

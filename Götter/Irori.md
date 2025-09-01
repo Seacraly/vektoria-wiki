@@ -1,0 +1,1 @@
+Gott der Geschichte, des Wissens und der Perfektion
