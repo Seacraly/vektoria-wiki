@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Missing info.md",
+                "file": "Events/09 Transportquests und Drachebabys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Missing info"
+              "title": "09 Transportquests und Drachebabys"
             }
           }
         ]
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Missing info.md",
+                "file": "Events/09 Transportquests und Drachebabys.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Missing info"
+              "title": "Graph of 09 Transportquests und Drachebabys"
             }
           }
         ],
@@ -217,14 +217,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6eb20e384e4cb341",
+  "active": "0d16fa0bf71551eb",
   "lastOpenFiles": [
     "index.md",
+    "Events/09 Transportquests und Drachebabys.md",
+    "Missing info.md",
     "NPCs/Nabasu.md",
     "Objekte/Todd RIP.md",
     "Objekte/Kristall der Resistenz.md",
     "Events/11 Aufbruch zur Oase.md",
-    "Missing info.md",
     "Events/12 Ein Blick in die Hölle.md",
     "Vektoria.md",
     "Events/01 Ausbruch der Tiere.md",
@@ -244,7 +245,6 @@
     "Städte/Die Wilden Lande.md",
     "Städte/Balora.md",
     "Spielercharaktere/Theodomedikt Erzhüter.md",
-    "Spielercharaktere/Spatzenhirn.md",
     "Relationships/Familie Beynon.canvas",
     "Relationships/Familie Godwins.canvas",
     "Bilder/Myrddin portrait 2.2.png",
