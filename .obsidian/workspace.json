@@ -11,10 +11,14 @@
             "id": "fddd1e9113b17aa8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mala",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,6 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of index"
             }
           }
         ],
@@ -212,12 +217,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "14663c377c79c42e",
+  "active": "fddd1e9113b17aa8",
   "lastOpenFiles": [
+    "Vektoria.md",
+    "Fehlende Infos.md",
+    "Fehlende infos.md",
+    "index.md",
+    "NPCs/Malakai.md",
     "Events/17 Die Entführung von Henry Godwins.md",
     "NPCs/Dranil.md",
     "NPCs/Valara.md",
-    "NPCs/Malakai.md",
     "Organisationen/Eldrics Schatten, Die Anhänger von Zyterax.md",
     "Orte/Polopops Hütte.md",
     "NPCs/Erwin Vernichterschädel RIP.md",
@@ -229,7 +238,6 @@
     "NPCs/Eldara.md",
     "NPCs/Valentin.md",
     "Events/15 Die Gründer der Akademie.md",
-    "Fehlende infos.md",
     "Events/14 Der Kristallbaum.md",
     "NPCs/Phobias RIP.md",
     "NPCs/Venomir.md",
@@ -237,9 +245,6 @@
     "NPCs/Zyterax Stoforge.md",
     "Familien/Familie Stoforge.md",
     "Objekte/Todd RIP.md",
-    "Events/12 Ein Blick in die Hölle.md",
-    "Events/13 Die Oase.md",
-    "Events/11 Aufbruch zur Oase.md",
     "Relationships/Familie Beynon.canvas",
     "Relationships/Familie Godwins.canvas",
     "Bilder/Myrddin portrait 2.2.png",

@@ -17,7 +17,7 @@ Im Eingang der Oase stand eine Engelstatur umgeben von Pfützen aus eine rotem F
 
 Als wir das Rätzel betrachteten, sah [[Spatzenhirn]] in das rote Wasser und auf einmal verschwand sie. Sie tauchte auf in einer anderen Ebene, in einem Kampfring Gegenüber von ein paar Bestien. Drumherum, hinter einer unsichtbaren Wans die Spatzenhirn einsperrte standen Zuschauer. Sie musste kämpfen und schaffte es auch die Bestien zu besiegen. 
 
-Als Gewinnerin des Kampfes bekam sie eine Belohnung [[Fehlende infos]]
+Als Gewinnerin des Kampfes bekam sie eine Belohnung [[Fehlende Infos]]
 
 ## Loot
-[[Fehlende infos]]
+[[Fehlende Infos]]
