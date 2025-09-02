@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/12 Ein Blick in die Hölle.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 Ein Blick in die Hölle"
+              "title": "index"
             }
           }
         ]
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/12 Ein Blick in die Hölle.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 12 Ein Blick in die Hölle"
+              "title": "Graph of index"
             }
           }
         ],
@@ -221,6 +221,7 @@
   "lastOpenFiles": [
     "Fehlende Infos.md",
     "index.md",
+    "Events/12 Ein Blick in die Hölle.md",
     "Vektoria.md",
     "NPCs/Malakai.md",
     "Events/17 Die Entführung von Henry Godwins.md",
@@ -243,7 +244,6 @@
     "NPCs/Kathelyn Beynon RIP.md",
     "NPCs/Zyterax Stoforge.md",
     "Familien/Familie Stoforge.md",
-    "Objekte/Todd RIP.md",
     "Relationships/Familie Beynon.canvas",
     "Relationships/Familie Godwins.canvas",
     "Bilder/Myrddin portrait 2.2.png",
