@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Events/12 Ein Blick in die Hölle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "12 Ein Blick in die Hölle"
             }
           }
         ]
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "Events/12 Ein Blick in die Hölle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of 12 Ein Blick in die Hölle"
             }
           }
         ],
@@ -219,10 +219,9 @@
   },
   "active": "fddd1e9113b17aa8",
   "lastOpenFiles": [
-    "Vektoria.md",
     "Fehlende Infos.md",
-    "Fehlende infos.md",
     "index.md",
+    "Vektoria.md",
     "NPCs/Malakai.md",
     "Events/17 Die Entführung von Henry Godwins.md",
     "NPCs/Dranil.md",
