@@ -1,34 +1,6 @@
 {
   "mapMarkers": [
     {
-      "id": "OaseVonEldorad1",
-      "lastAccessed": 1756498954134,
-      "markers": [
-        {
-          "id": "ID_1909f9b9da7b",
-          "type": "Event",
-          "loc": [
-            2907.8661521951162,
-            2712.8151660221893
-          ],
-          "link": "Die Entführung von Henry Godwins",
-          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1.5,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Orte/Oase von Eldorad.md"
-      ]
-    },
-    {
       "id": "MapCalcExample",
       "lastAccessed": 1756506715036,
       "markers": [
@@ -780,6 +752,170 @@
       "files": [
         "Vektoria.md"
       ]
+    },
+    {
+      "id": "OaseVonEldorad1",
+      "lastAccessed": 1756805319852,
+      "markers": [
+        {
+          "id": "ID_1909f9b9da7b",
+          "type": "Event",
+          "loc": [
+            2907.8661521951162,
+            2712.8151660221893
+          ],
+          "link": "17 Die Entführung von Henry Godwins",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -1.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0868f91abb0b",
+          "type": "Event",
+          "loc": [
+            1247.7708053588867,
+            1080.4999389648438
+          ],
+          "link": "12 Ein Blick in die Hölle",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb4909f9d8e9",
+          "type": "Event",
+          "loc": [
+            390.6175206890336,
+            355.9105282862232
+          ],
+          "link": "11 Aufbruch zur Oase",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6998cb5879ba",
+          "type": "Person",
+          "loc": [
+            390.8750457763672,
+            3086.333251953125
+          ],
+          "link": "Lucius RIP",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a88fb0b6b69",
+          "type": "Event",
+          "loc": [
+            556.8750457763672,
+            2181
+          ],
+          "link": "13 Die Oase",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a9b083998ca",
+          "type": "Person",
+          "loc": [
+            2266.541706085205,
+            2261.6666259765625
+          ],
+          "link": "Gargoyle",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_296958c9c89b",
+          "type": "Event",
+          "loc": [
+            1613.5416717529297,
+            2069
+          ],
+          "link": "14 Der Kristallbaum",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbfbf8186809",
+          "type": "Event",
+          "loc": [
+            1118.466129562635,
+            2804.385321552356
+          ],
+          "link": "15 Die Gründer der Akademie",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8fb686819e8",
+          "type": "Event",
+          "loc": [
+            1967.318310839632,
+            2326.616868502894
+          ],
+          "link": "16 Ein Leben in der Dunkelheit",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Orte/Oase von Eldorad.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -825,7 +961,7 @@
       },
       "isImage": false,
       "tags": [],
-      "minZoom": 0.5,
+      "minZoom": -5,
       "maxZoom": null
     },
     {

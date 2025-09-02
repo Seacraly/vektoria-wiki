@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf2e17354d31aa9f",
+        "id": "714f33fd3d18f09c",
         "type": "tabs",
         "children": [
           {
-            "id": "0d16fa0bf71551eb",
+            "id": "fddd1e9113b17aa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/12 Ein Blick in die Hölle.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12 Ein Blick in die Hölle"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mala",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +163,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/12 Ein Blick in die Hölle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 12 Ein Blick in die Hölle"
+              "title": "Graph view"
             }
           }
         ],
@@ -203,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,32 +214,32 @@
   },
   "active": "14663c377c79c42e",
   "lastOpenFiles": [
-    "Missing info.md",
-    "Vektoria.md",
-    "Events/09 Transportquests und Drachebabys.md",
-    "index.md",
-    "NPCs/Nabasu.md",
-    "Objekte/Todd RIP.md",
-    "Objekte/Kristall der Resistenz.md",
-    "Events/11 Aufbruch zur Oase.md",
-    "Events/12 Ein Blick in die Hölle.md",
-    "Events/01 Ausbruch der Tiere.md",
-    "Spielercharaktere/Myrddin Beynon.md",
-    "Spielercharaktere/Cuthral Marchog.md",
-    "Spielercharaktere/Henry Godwins.md",
-    "NPCs/Grimm Donnerzorn RIP.md",
-    "NPCs/Venomir.md",
-    "Organisationen/Drei Monde, Diebesguilde.md",
+    "Events/17 Die Entführung von Henry Godwins.md",
+    "NPCs/Dranil.md",
+    "NPCs/Valara.md",
+    "NPCs/Malakai.md",
     "Organisationen/Eldrics Schatten, Die Anhänger von Zyterax.md",
+    "Orte/Polopops Hütte.md",
+    "NPCs/Erwin Vernichterschädel RIP.md",
+    "Orte/Oase von Eldorad.md",
+    "Events/16 Ein Leben in der Dunkelheit.md",
+    "Familien/Die Halb-Vampire.md",
+    "NPCs/Amara.md",
+    "NPCs/Thelo.md",
+    "NPCs/Eldara.md",
+    "NPCs/Valentin.md",
+    "Events/15 Die Gründer der Akademie.md",
+    "Fehlende infos.md",
+    "Events/14 Der Kristallbaum.md",
+    "NPCs/Phobias RIP.md",
+    "NPCs/Venomir.md",
+    "NPCs/Kathelyn Beynon RIP.md",
+    "NPCs/Zyterax Stoforge.md",
     "Familien/Familie Stoforge.md",
-    "Familien/Familie Godwins.md",
-    "Familien/Familie Donnerzorn.md",
-    "Familien/Familie Beynon.md",
-    "Familien/Familie Abbylon.md",
-    "Städte/Eldorad.md",
-    "Städte/Die Wilden Lande.md",
-    "Städte/Balora.md",
-    "Spielercharaktere/Theodomedikt Erzhüter.md",
+    "Objekte/Todd RIP.md",
+    "Events/12 Ein Blick in die Hölle.md",
+    "Events/13 Die Oase.md",
+    "Events/11 Aufbruch zur Oase.md",
     "Relationships/Familie Beynon.canvas",
     "Relationships/Familie Godwins.canvas",
     "Bilder/Myrddin portrait 2.2.png",

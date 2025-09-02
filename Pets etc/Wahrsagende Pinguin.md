@@ -6,7 +6,7 @@ Ein Pinguin der in die Zukunft sehen kann. Ob diese Vorhersagungen auch passiere
 
 ## Familie
 [[Henry Godwins]]
-Ehemaliger Besitzer: [[Han]]
+[[Han]] (ehemaliger Besitzer)
 
 ## Bekannte
 

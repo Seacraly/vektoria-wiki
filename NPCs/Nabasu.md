@@ -8,6 +8,6 @@ Ein Dämonen. Bekam [[Todd RIP]]s Seele von [[Spatzenhirn]] und erschuf daraus d
 
 
 ## Bekannte
-[[Lucius]] (Seele verkauft für Reichtümer)
+[[Lucius RIP]] (Seele verkauft für Reichtümer)
 
 ## Ort
