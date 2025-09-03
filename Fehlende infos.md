@@ -5,3 +5,7 @@
 [[14 Der Kristallbaum]] Welchen Kristall bekamen wir für [[Todd RIP]] (generell kann ich mich nicht mehr richtig erinnern wo genau die Kristalle herkamen)
 
 [[15 Die Gründer der Akademie]] Wissen wir wer in den anderen Staturen abgebildet war? Habe ich richtig geraten?
+
+[[Magishe Bohnen]] Wo haben wir sie her bekommen?
+
+[[18 Armeen und Magische Bohnen]] Welchen Kristal?

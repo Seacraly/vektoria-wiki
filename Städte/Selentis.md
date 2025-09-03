@@ -13,7 +13,7 @@ Die wohlhabende Hauptstadt von [[Vektoria]] erstrahlt in voller Pracht und ist e
 
 
 ## Karte
-
+![[Selentis.jpg]]
 
 ## Interaktive Karte (funktioniert nicht online, bitte ignorieren)
 ```leaflet  

@@ -10,6 +10,7 @@
 [[13 Die Oase]]
 [[14 Der Kristallbaum]]
 [[17 Die Entführung von Henry Godwins]]
+[[18 Armeen und Magische Bohnen]]
 
 ## Karte
 ![[Die_Oase_von_Eldorad.jpg]]

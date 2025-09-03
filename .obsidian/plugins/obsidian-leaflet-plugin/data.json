@@ -755,7 +755,7 @@
     },
     {
       "id": "OaseVonEldorad1",
-      "lastAccessed": 1756805319852,
+      "lastAccessed": 1756904799718,
       "markers": [
         {
           "id": "ID_1909f9b9da7b",
@@ -901,6 +901,23 @@
             2326.616868502894
           ],
           "link": "16 Ein Leben in der Dunkelheit",
+          "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09bbebc9eac9",
+          "type": "Event",
+          "loc": [
+            1730.349140004897,
+            3832.990388729867
+          ],
+          "link": "18 Armeen und Magische Bohnen",
           "layer": "%5B%5BDie_Oase_von_Eldorad.jpg%5D%5D",
           "mutable": true,
           "command": false,

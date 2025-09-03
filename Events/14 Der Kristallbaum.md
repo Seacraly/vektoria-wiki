@@ -10,3 +10,4 @@ Endlich fanden wir das wofür wir hier waren, Der Kristallbaum stand mitten im r
 Als wir die lichte aus gemacht haben tauchten auf einmal Dämonen auf, die es auch auf den Kristall abgesehen hatten. Statt zu kämpfen, machten wir einen Deal. Sie bekamen eine Seele von uns und wir bekamen den Kristall. Wir gaben ihnen Die Seele im Stab [[Todd RIP]] und der Kristall gehörte uns ([[Fehlende infos]]).
 
 ## Loot
+[[Fehlende infos]]
