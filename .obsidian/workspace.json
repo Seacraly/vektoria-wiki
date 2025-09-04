@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/19 Der Angriff auf Erwin Vernichterschädel.md",
+                "file": "Events/18 Armeen und Magische Bohnen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 Der Angriff auf Erwin Vernichterschädel"
+              "title": "18 Armeen und Magische Bohnen"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/19 Der Angriff auf Erwin Vernichterschädel.md",
+                "file": "Events/18 Armeen und Magische Bohnen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 19 Der Angriff auf Erwin Vernichterschädel"
+              "title": "Graph of 18 Armeen und Magische Bohnen"
             }
           }
         ],
@@ -219,8 +219,11 @@
   },
   "active": "6eb20e384e4cb341",
   "lastOpenFiles": [
-    "Organisationen/Eldrics Schatten, Die Anhänger von Zyterax.md",
+    "NPCs/Mathilda Godwins.md",
+    "Events/01 Ausbruch der Tiere.md",
+    "Vektoria.md",
     "Events/19 Der Angriff auf Erwin Vernichterschädel.md",
+    "Organisationen/Eldrics Schatten, Die Anhänger von Zyterax.md",
     "Events/18 Armeen und Magische Bohnen.md",
     "Städte/Krataka.md",
     "Organisationen/Forschungsinstitut von Krataka.md",
@@ -238,13 +241,10 @@
     "Städte/Die Wilden Lande.md",
     "Städte/Balora.md",
     "Orte/Die Drachenrose.md",
-    "Vektoria.md",
     "index.md",
     "Fehlende infos.md",
     "Events/12 Ein Blick in die Hölle.md",
     "Events/13 Die Oase.md",
-    "Events/14 Der Kristallbaum.md",
-    "Events/15 Die Gründer der Akademie.md",
     "Relationships/Familie Beynon.canvas",
     "Relationships/Familie Godwins.canvas",
     "Bilder/Myrddin portrait 2.2.png",

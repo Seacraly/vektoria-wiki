@@ -1,5 +1,5 @@
 ## Beschreibung
-Verwalterin des Goswins Imperiums und [[Henry Godwins]] Mutter
+Verwalterin des Godwins Imperiums und [[Henry Godwins]] Mutter
 
 ## Organisation
 [[Händlergilde Godwins]]

@@ -18,7 +18,7 @@ height: 768px ### Size of the leaflet embed in px on your screen
 width: 95% ### Size of the leaflet embed in your note  
 lat: 384 ### To center the map, make this half of the map height.  
 long: 512 ### To center the map, make this half of the map width.  
-minZoom: -0.5 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
+minZoom: -1 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
 maxZoom: 1.5 ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  
 defaultZoom: 0 ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
 zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.  
