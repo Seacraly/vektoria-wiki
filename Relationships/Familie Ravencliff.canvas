@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"bd3461766069b81f","type":"file","file":"NPCs/Saido Ravencliff.md","x":80,"y":-1120,"width":400,"height":400},
+		{"id":"ec9ebf5b90009673","type":"file","file":"NPCs/Simto Ravencliff.md","x":-760,"y":-1120,"width":400,"height":400},
+		{"id":"1ecda2cc41fd6a92","type":"file","file":"NPCs/Maelgwyn Ravencliff.md","x":-40,"y":-400,"width":400,"height":400},
+		{"id":"ff23ebb595f259a9","type":"file","file":"NPCs/Arkanus Ravencliff.md","x":-680,"y":-400,"width":400,"height":400},
+		{"id":"f2985c338477e406","x":760,"y":-200,"width":400,"height":400,"type":"file","file":"NPCs/Mars.md"}
+	],
+	"edges":[
+		{"id":"40b3c9bedf5f8cd3","fromNode":"ec9ebf5b90009673","fromSide":"right","toNode":"bd3461766069b81f","toSide":"left","toEnd":"none","label":"Verheiratet"},
+		{"id":"7047031cbf758a18","fromNode":"ff23ebb595f259a9","fromSide":"right","toNode":"1ecda2cc41fd6a92","toSide":"left","toEnd":"none","label":"Brüder"},
+		{"id":"9505f133020be422","fromNode":"bd3461766069b81f","fromSide":"bottom","toNode":"1ecda2cc41fd6a92","toSide":"top","label":"Kinder"},
+		{"id":"014bf377df3d3f29","fromNode":"ec9ebf5b90009673","fromSide":"bottom","toNode":"ff23ebb595f259a9","toSide":"top","label":"Kinder"},
+		{"id":"3704f17115c8d733","fromNode":"ec9ebf5b90009673","fromSide":"bottom","toNode":"1ecda2cc41fd6a92","toSide":"top"},
+		{"id":"7aeca96912cea7f6","fromNode":"bd3461766069b81f","fromSide":"bottom","toNode":"ff23ebb595f259a9","toSide":"top"},
+		{"id":"fa9a91c60fe516c2","fromNode":"f2985c338477e406","fromSide":"left","toNode":"1ecda2cc41fd6a92","toSide":"right","toEnd":"none","label":"Ex\nFreunde"}
+	]
+}

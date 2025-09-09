@@ -2,11 +2,13 @@
 	"nodes":[
 		{"id":"e64c8b160779c391","type":"file","file":"NPCs/Gottfried Godwins.md","x":200,"y":-720,"width":400,"height":400},
 		{"id":"fccb4f8e4775c1d3","type":"file","file":"Spielercharaktere/Henry Godwins.md","x":-200,"y":0,"width":400,"height":400},
-		{"id":"bf035569ef4c8633","type":"file","file":"NPCs/Mathilda Godwins.md","x":-640,"y":-720,"width":400,"height":400}
+		{"id":"bf035569ef4c8633","type":"file","file":"NPCs/Mathilda Godwins.md","x":-640,"y":-720,"width":400,"height":400},
+		{"id":"18abcc3853f434ce","x":680,"y":0,"width":400,"height":400,"type":"file","file":"NPCs/Mik Robson.md"}
 	],
 	"edges":[
 		{"id":"0488982dd6aaae88","fromNode":"bf035569ef4c8633","fromSide":"right","toNode":"e64c8b160779c391","toSide":"left","toEnd":"none","label":"Verheiratet"},
 		{"id":"32d32b8bd6507566","fromNode":"bf035569ef4c8633","fromSide":"bottom","toNode":"fccb4f8e4775c1d3","toSide":"top"},
-		{"id":"a650319e8371c3ce","fromNode":"e64c8b160779c391","fromSide":"bottom","toNode":"fccb4f8e4775c1d3","toSide":"top"}
+		{"id":"a650319e8371c3ce","fromNode":"e64c8b160779c391","fromSide":"bottom","toNode":"fccb4f8e4775c1d3","toSide":"top"},
+		{"id":"30f10872f5c46983","fromNode":"18abcc3853f434ce","fromSide":"left","toNode":"fccb4f8e4775c1d3","toSide":"right","label":"Diener?"}
 	]
 }

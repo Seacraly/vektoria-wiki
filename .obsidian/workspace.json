@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orte/Drachenrose.md",
+                "file": "NPCs/Zyterax Stoforge RIP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drachenrose"
+              "title": "Zyterax Stoforge RIP"
             }
           }
         ]
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orte/Drachenrose.md",
+                "file": "NPCs/Zyterax Stoforge RIP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Drachenrose"
+              "title": "Graph of Zyterax Stoforge RIP"
             }
           }
         ],
@@ -219,8 +219,24 @@
   },
   "active": "26c0555e565254c9",
   "lastOpenFiles": [
-    "Orte/Die Drachenrose.md",
+    "Familien/Familie Stoforge.md",
+    "Familien/Familie Ravencliff.md",
+    "Familien/Familie Godwins.md",
+    "Familien/Familie Donnerzorn.md",
+    "Familien/Familie Beynon.md",
+    "Familien/Familie Abbylon.md",
+    "NPCs/Maelgwyn Ravencliff.md",
+    "NPCs/Arkanus Ravencliff.md",
+    "Relationships/Familie Ravencliff.canvas",
+    "NPCs/Mars.md",
+    "NPCs/Simto Ravencliff.md",
+    "NPCs/Saido Ravencliff.md",
+    "Organisationen/Maelgwyns Engel.md",
     "Orte/Drachenrose.md",
+    "Relationships/Familie Godwins.canvas",
+    "Relationships/Familie Beynon.canvas",
+    "Organisationen/Drei Monde, Diebesguilde.md",
+    "Orte/Die Drachenrose.md",
     "Events/19 Der Angriff auf Erwin Vernichterschädel.md",
     "Städte/Eldorad.md",
     "Events/11 Aufbruch zur Oase.md",
@@ -232,21 +248,6 @@
     "Events/14 Der Kristallbaum.md",
     "Events/15 Die Gründer der Akademie.md",
     "Events/16 Ein Leben in der Dunkelheit.md",
-    "Events/17 Die Entführung von Henry Godwins.md",
-    "Events/18 Armeen und Magische Bohnen.md",
-    "Fehlende infos.md",
-    "Pets etc/Briefente.md",
-    "Pets etc/Zauberkatze.md",
-    "Pets etc/Wahrsagende Pinguin.md",
-    "Pets etc/Tiberius.md",
-    "Pets etc/Karsten.md",
-    "Events/Aufnahmeprüfung der Akademie.md",
-    "Organisationen/Falkenorden.md",
-    "NPCs/Jathal.md",
-    "NPCs/Dalara.md",
-    "Organisationen/Eldrics Schatten, Die Anhänger von Zyterax.md",
-    "Relationships/Familie Beynon.canvas",
-    "Relationships/Familie Godwins.canvas",
     "Bilder/Myrddin portrait 2.2.png",
     "Bilder/Henry.jpg",
     "Bilder/Spatzenhirn.jpg",
