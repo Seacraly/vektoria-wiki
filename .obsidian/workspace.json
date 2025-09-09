@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "714f33fd3d18f09c",
+        "id": "77de4deb5e538ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "26c0555e565254c9",
+            "id": "dd91612548f6d9a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fehlende Info.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fehlende Info"
+              "title": "New tab"
             }
           }
         ]
@@ -167,7 +163,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fehlende Info.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Fehlende Info"
+              "title": "Graph view"
             }
           }
         ],
@@ -217,8 +212,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "26c0555e565254c9",
+  "active": "dd91612548f6d9a6",
   "lastOpenFiles": [
+    "Events/21 Neue Stadt, alte Gesichter.md",
+    "Events/20 Das Ei aus dem Himmel.md",
+    "Objekte/Drachenei.md",
+    "Fehlende Info.md",
     "NPCs/Zyterax Stoforge RIP.md",
     "Familien/Familie Stoforge.md",
     "Familien/Familie Ravencliff.md",
@@ -244,10 +243,6 @@
     "Vektoria.md",
     "Events/02 Das Ritual im Wald.md",
     "Orte/Erwin Vernichterschädels Anwesen.md",
-    "Events/12 Ein Blick in die Hölle.md",
-    "Events/13 Die Oase.md",
-    "Events/14 Der Kristallbaum.md",
-    "Events/15 Die Gründer der Akademie.md",
     "Bilder/Myrddin portrait 2.2.png",
     "Bilder/Henry.jpg",
     "Bilder/Spatzenhirn.jpg",
