@@ -9,3 +9,5 @@
 [[Magishe Bohnen]] Wo haben wir sie her bekommen?
 
 [[18 Armeen und Magische Bohnen]] Welchen Kristal?
+
+[[19 Der Angriff auf Erwin Vernichterschädel]] Wer forderte uns zu einem Kamp heraus, wie heißt der Hund den Henry hier fing.

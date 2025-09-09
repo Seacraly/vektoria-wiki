@@ -5,7 +5,7 @@ Fliegende Insel
 [[Erwin Vernichterschädel RIP]]
 
 ## Events
-
+[[19 Der Angriff auf Erwin Vernichterschädel]]
 
 ## Karte
 

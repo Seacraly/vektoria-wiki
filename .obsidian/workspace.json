@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/18 Armeen und Magische Bohnen.md",
+                "file": "Orte/Drachenrose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 Armeen und Magische Bohnen"
+              "title": "Drachenrose"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 285.5
   },
   "right": {
     "id": "2bc9ee197582c4e6",
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/18 Armeen und Magische Bohnen.md",
+                "file": "Orte/Drachenrose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,20 +190,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224408,
+                  "scale": 0.3628873693012109,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 18 Armeen und Magische Bohnen"
+              "title": "Graph of Drachenrose"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,34 +217,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6eb20e384e4cb341",
+  "active": "26c0555e565254c9",
   "lastOpenFiles": [
-    "NPCs/Mathilda Godwins.md",
-    "Events/01 Ausbruch der Tiere.md",
-    "Vektoria.md",
-    "Events/19 Der Angriff auf Erwin Vernichterschädel.md",
-    "Organisationen/Eldrics Schatten, Die Anhänger von Zyterax.md",
-    "Events/18 Armeen und Magische Bohnen.md",
-    "Städte/Krataka.md",
-    "Organisationen/Forschungsinstitut von Krataka.md",
-    "NPCs/R.md",
-    "Events/11 Aufbruch zur Oase.md",
-    "Orte/Oase von Eldorad.md",
-    "Städte/Wolfshein.md",
-    "Städte/Silberwind.md",
-    "Städte/Selentis.md",
-    "Städte/Schattental.md",
-    "Städte/Menzoberranzan.md",
-    "Städte/Immerglück.md",
-    "Städte/Glitzerquell.md",
-    "Städte/Eldorad.md",
-    "Städte/Die Wilden Lande.md",
-    "Städte/Balora.md",
     "Orte/Die Drachenrose.md",
-    "index.md",
-    "Fehlende infos.md",
+    "Orte/Drachenrose.md",
+    "Events/19 Der Angriff auf Erwin Vernichterschädel.md",
+    "Städte/Eldorad.md",
+    "Events/11 Aufbruch zur Oase.md",
+    "Vektoria.md",
+    "Events/02 Das Ritual im Wald.md",
+    "Orte/Erwin Vernichterschädels Anwesen.md",
     "Events/12 Ein Blick in die Hölle.md",
     "Events/13 Die Oase.md",
+    "Events/14 Der Kristallbaum.md",
+    "Events/15 Die Gründer der Akademie.md",
+    "Events/16 Ein Leben in der Dunkelheit.md",
+    "Events/17 Die Entführung von Henry Godwins.md",
+    "Events/18 Armeen und Magische Bohnen.md",
+    "Fehlende infos.md",
+    "Pets etc/Briefente.md",
+    "Pets etc/Zauberkatze.md",
+    "Pets etc/Wahrsagende Pinguin.md",
+    "Pets etc/Tiberius.md",
+    "Pets etc/Karsten.md",
+    "Events/Aufnahmeprüfung der Akademie.md",
+    "Organisationen/Falkenorden.md",
+    "NPCs/Jathal.md",
+    "NPCs/Dalara.md",
+    "Organisationen/Eldrics Schatten, Die Anhänger von Zyterax.md",
     "Relationships/Familie Beynon.canvas",
     "Relationships/Familie Godwins.canvas",
     "Bilder/Myrddin portrait 2.2.png",
