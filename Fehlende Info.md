@@ -11,3 +11,5 @@
 [[18 Armeen und Magische Bohnen]] Welchen Kristal?
 
 [[19 Der Angriff auf Erwin Vernichterschädel]] Wer forderte uns zu einem Kamp heraus, wie heißt der Hund den Henry hier fing.
+
+[[22 Bitte verkaufe nicht deinen Kopf]] war das der moment wo Spatzenhirn ihren Kopf verkaufte?
