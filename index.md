@@ -1,7 +1,7 @@
 ---
 title: Willkommen beim Vektoria Wiki
 ---
-Hallo und willkommen bei dem Wiki unseres Pathfinder Spieles, wenn ihr auch Edits machen wollt, fragt mich gerne und ich helfe euch bei dem Setup dafür.<3
+Hallo und willkommen bei dem Wiki unseres Pathfinder-Spieles, wenn ihr auch Edits machen wollt, fragt mich gerne und ich helfe euch bei dem Setup dafür.<3
 Ich hoffe es hilft ein bisschen mit dem erinnern daran welche Charaktere was gemacht haben Usw. 
 
 
