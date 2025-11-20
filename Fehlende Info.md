@@ -6,10 +6,12 @@
 
 [[15 Die Gründer der Akademie]] Wissen wir wer in den anderen Staturen abgebildet war? Habe ich richtig geraten?
 
-[[Magishe Bohnen]] Wo haben wir sie her bekommen?
+[[Magische Bohnen]] Wo haben wir sie her bekommen?
 
 [[18 Armeen und Magische Bohnen]] Welchen Kristal?
 
-[[19 Der Angriff auf Erwin Vernichterschädel]] Wer forderte uns zu einem Kamp heraus, wie heißt der Hund den Henry hier fing.
+[[19 Der Angriff auf Erwin Vernichterschädel]] Wer forderte uns zu einem Kampf heraus, wie heißt der Hund den Henry hier fing.
 
 [[22 Bitte verkaufe nicht deinen Kopf]] war das der moment wo Spatzenhirn ihren Kopf verkaufte?
+
+[[23 Drei Kämpfer und ein Diplomat (die Arena von Selentis)]] Loot?

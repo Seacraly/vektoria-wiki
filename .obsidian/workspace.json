@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3f7be40bb4b31be",
+            "id": "78b2a9eb8c48105d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/23 Drei Kämpfer und ein Diplomat (die Arena von Selentis).md",
+                "file": "Events/24 Geschichten aus Selentis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23 Drei Kämpfer und ein Diplomat (die Arena von Selentis)"
+              "title": "24 Geschichten aus Selentis"
             }
           }
         ]
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/23 Drei Kämpfer und ein Diplomat (die Arena von Selentis).md",
+                "file": "Events/24 Geschichten aus Selentis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 23 Drei Kämpfer und ein Diplomat (die Arena von Selentis)"
+              "title": "Graph of 24 Geschichten aus Selentis"
             }
           }
         ],
@@ -217,16 +217,19 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c3f7be40bb4b31be",
+  "active": "78b2a9eb8c48105d",
   "lastOpenFiles": [
-    "NPCs/Kiera.md",
-    "Orte/die große Arena.md",
-    "Städte/Selentis.md",
     "Events/23 Drei Kämpfer und ein Diplomat (die Arena von Selentis).md",
-    "Events/22 Bitte verkaufe nicht deinen Kopf.md",
+    "Events/24 Geschichten aus Selentis.md",
     "Fehlende Info.md",
-    "Events/21 Neue Stadt, alte (und neue) Gesichter.md",
+    "Städte/Selentis.md",
+    "Objekte/Magische Bohnen.md",
+    "Orte/die große Arena.md",
+    "index.md",
     "Vektoria.md",
+    "NPCs/Kiera.md",
+    "Events/22 Bitte verkaufe nicht deinen Kopf.md",
+    "Events/21 Neue Stadt, alte (und neue) Gesichter.md",
     "Events/Aufnahmeprüfung der Akademie.md",
     "NPCs/Jürgen Donnerzorn.md",
     "Events/20 Das Ei aus dem Himmel.md",
@@ -243,9 +246,6 @@
     "Relationships/Familie Ravencliff.canvas",
     "NPCs/Mars.md",
     "NPCs/Simto Ravencliff.md",
-    "NPCs/Saido Ravencliff.md",
-    "Organisationen/Maelgwyns Engel.md",
-    "Orte/Drachenrose.md",
     "Relationships/Familie Godwins.canvas",
     "Relationships/Familie Beynon.canvas",
     "Bilder/Myrddin portrait 2.2.png",
