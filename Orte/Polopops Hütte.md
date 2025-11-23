@@ -7,6 +7,10 @@ Eine Kleine Hütte im Wald vor [[Eldorad]]. Polopop hat die Gruppe mal eine Nach
 [[Dranil]]
 [[Valara]]
 [[Troll]]
-[[Madlene]]
+[[Madeleine]]
 
 ## Events
+
+
+## Karte
+![[Polopops_Hütte.jpg]]

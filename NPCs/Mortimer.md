@@ -11,6 +11,6 @@ Ein mysteriöser Gnom und Hauptpartner von [[Pax]] Verwaltet die Ressourcen der 
 [[Pax]] (Partner)
 [[Grullor, Trakk & Morgash Blutaxt]]
 [[Diablos]]
-[[Todd RIP]] 
+[[Todd RIP - Xyll]] 
 
 ## Ort

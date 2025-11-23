@@ -1,8 +1,9 @@
-## wer
+## Wer
 [[Spatzenhirn]]
 
 ## Wo
-[[Oase von Eldorad]]
+[[Oase von Eldorad]],
+[[Arena von Nabasu]]
 
 ## Was
 Im Eingang der Oase stand eine Engelstatur umgeben von Pfützen aus eine rotem Flüssigkeit. Auf dem Sockel der Statur stand ein Rätzel:
@@ -15,9 +16,10 @@ Im Eingang der Oase stand eine Engelstatur umgeben von Pfützen aus eine rotem F
 	sonst ist das Vegnügen von kurzer Dauer.
 
 
-Als wir das Rätzel betrachteten, sah [[Spatzenhirn]] in das rote Wasser und auf einmal verschwand sie. Sie tauchte auf in einer anderen Ebene, in einem Kampfring Gegenüber von ein paar Bestien. Drumherum, hinter einer unsichtbaren Wans die Spatzenhirn einsperrte standen Zuschauer. Sie musste kämpfen und schaffte es auch die Bestien zu besiegen. 
+Als wir das Rätzel betrachteten, sah [[Spatzenhirn]] in das rote Wasser und auf einmal verschwand sie. Sie tauchte auf in einer anderen Ebene ([[Arena von Nabasu]]), in einem Kampfring. Gegenüber standen mehrere Bestien. Drumherum, hinter einer unsichtbaren Wand, die Spatzenhirn einsperrte, standen Zuschauer. Sie musste kämpfen und schaffte es auch die Bestien zu besiegen. 
 
 Als Gewinnerin des Kampfes bekam sie eine Belohnung [[Fehlende Info]]
 
 ## Loot
 [[Fehlende Info]]
+

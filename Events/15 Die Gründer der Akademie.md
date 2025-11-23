@@ -1,4 +1,4 @@
-## wer
+## Wer
 [[Kathelyn Beynon RIP]]
 
 ## Wo

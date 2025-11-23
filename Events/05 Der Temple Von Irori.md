@@ -1,8 +1,8 @@
-## wer
-[[Felicia (Ignatius)]]
-[[Jakob (Jhonny)]]
-[[Troll]]
-[[Hellhona]]
+## Wer
+[[Felicia (Ignatius)]],
+[[Jakob (Jhonny)]],
+[[Troll]],
+[[Hellhona]],
 
 ## Wo
 [[Temple von Irori]]
@@ -17,7 +17,7 @@ Wir schafften es die verschlossene Tür zu einem Alchemie raum aufzumachen und d
 
 Hinter dem Alchemie Labor war ein Gang der zu einem großen runden Zimmer führte. Im Zentrum stand eine große Statur von Irori mit ausgebreiteten Armen. Davor standen [[Felicia (Ignatius)]] und [[Jakob (Jhonny)]].  Sie erzählte, dass sie unter einem Fluch ist und viel älter ist als sie aussieht da ihr Körper nicht mehr altert, und sie ist die, die man Ignatius nennt. Wir versuchten mit ihr zu reden aber sie verschwand einfach und hat Jakob mit der Aufgabe gelassen uns umzubringen. 
 
-Wir konnten den Kampf Gewinnen und Jakob verschonen. Er erzählte, dass er von der Organisation ([[TBC]]), zu der Felicia gehörte, adoptiert wurde und, dass sie den Namen Ignatius nur benutzte um dem Drachenjungern [[Ignatius]] die schuld zu geben. Jakob wollte nicht mehr Teil der Organisation sein also haben wir ihm Geholfen seinem Tod vorzutäuschen, er hat jetzt den Namen Jhonny und wohnt in Polopops Hütte. 
+Wir konnten den Kampf Gewinnen und Jakob verschonen. Er erzählte, dass er von der Organisation ([[Maelgwyns Engel]]), zu der Felicia gehörte, adoptiert wurde und, dass sie den Namen Ignatius nur benutzte um dem Drachenjungern [[Ignatius]] die schuld zu geben. Jakob wollte nicht mehr Teil der Organisation sein also haben wir ihm Geholfen seinem Tod vorzutäuschen, er hat jetzt den Namen Jhonny und wohnt in Polopops Hütte. 
 
 Währenddessen ging [[Theodomedikt Erzhüter]] zu der Statur und fing an zu beten. Als er fertig war sagte er, er hätte mit Irori gesprochen.
 

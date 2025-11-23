@@ -1,4 +1,4 @@
-## wer
+## Wer
 [[Händlergilde Löwenherz]]
 
 ## Wo

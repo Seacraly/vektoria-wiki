@@ -1,5 +1,5 @@
 ## Beschreibung
-Eine Taverne
+Eine Taverne in [[Eldorad]]. Verkauft die besten Getränke, sie kosten aber auch so viel.
 
 ## Wichtige Leute
 [[Ignatius]]  (Besitzer)
@@ -9,3 +9,4 @@ Eine Taverne
 
 
 ## Events
+[[04 Gerüchte (und eine Nachricht von Mortimer)]]

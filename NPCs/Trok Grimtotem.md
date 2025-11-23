@@ -1,5 +1,5 @@
 ## Beschreibung
-Der vorherige Besitzer von [[Todd RIP]]. 
+Der vorherige Besitzer von [[Todd RIP - Xyll]]. 
 
 ## Organisation
 

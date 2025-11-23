@@ -1,8 +1,8 @@
-## wer
-[[Donna & Daisy RIP]]
-[[Fizzi Feuerfinger]]
-[[Jack]]
-[[Ignatius]]
+## Wer
+[[Donna & Daisy RIP]],
+[[Fizzi Feuerfinger]],
+[[Jack]],
+[[Ignatius]],
 
 ## Wo
 [[Durchgang (Wolfshein-Eldorad)]]

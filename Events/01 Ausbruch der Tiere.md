@@ -1,9 +1,9 @@
-## wer
-[[Balthazar]]
-[[Pax]]
-[[Wambert]]
-[[Donna & Daisy RIP]]
-[[Kiera]]
+## Wer
+[[Balthazar]],
+[[Pax]],
+[[Wambert]],
+[[Donna & Daisy RIP]],
+[[Kiera]],
 
 ## Wo
 [[Wanderzirkus]]

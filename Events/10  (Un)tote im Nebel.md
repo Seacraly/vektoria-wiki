@@ -1,4 +1,4 @@
-## wer
+## Wer
 [[Trok Grimtotem]]
 
 ## Wo
@@ -12,4 +12,4 @@ Auf einmal war der Nebel so dick, dass wir einander nicht mehr sehen konnten. [[
 Es entpuppte sich als der stab, den [[Trok Grimtotem]], der Anführer der Untoten, in der hand hatte und der Stab bat uns ihn mitzunehmen. [[Spatzenhirn]] steckte ihn ein und tat ihr bestes sein Betteln nach Blut und Tod zu ignorieren. Wir tauften ihn daher Todd.
 
 ## Loot
-[[Todd RIP]]
+[[Todd RIP - Xyll]]

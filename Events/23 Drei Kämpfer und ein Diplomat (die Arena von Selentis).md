@@ -1,19 +1,19 @@
-## wer
+## Wer
 Zuschauer:
-[[Pax]]
-[[Mars]]
+[[Pax]],
+[[Mars]],
 [[Sindarin Beynon]]
 
 Kämpfer:
-[[Hellhona]]
-[[Iliata]]
-[[Kajal]]
-[[Xyll]]
-[[Kiera]]
-[[der Henker]]
-[[Accio]]
-[[Bekusa]]
-[[Minotaurus]]
+[[Hellhona]],
+[[Iliata]],
+[[Kajal]],
+[[Todd RIP - Xyll]],
+[[Kiera]],
+[[der Henker]],
+[[Accio]],
+[[Bekusa]],
+[[Minotaurus]],
 
 ## Wo
 [[die große Arena]]

@@ -1,8 +1,8 @@
-## wer
-[[Mortimer]]
-[[Ignatius]]
-[[Felicia (Ignatius)]]
-[[Hellhona]]
+## Wer
+[[Mortimer]],
+[[Ignatius]],
+[[Felicia (Ignatius)]],
+[[Hellhona]],
 
 ## Wo
 [[Eldorad]]

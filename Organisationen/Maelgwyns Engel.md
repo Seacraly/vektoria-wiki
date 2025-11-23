@@ -1,10 +1,12 @@
 ## Beschreibung
-Die Mitglieder tragen Umhänge ([[Roter Umhang]]). Arbeiten mit [[Eldrics Schatten, Die Anhänger von Zyterax]] zusammen.
+Die Mitglieder tragen Umhänge ([[Roter Umhang]]). Arbeiten mit [[Eldrics Schatten]] zusammen.
 
 ## Leitung
-[[Dylan Beynon]]
+[[Eldrics Schatten]]
 
 ## Mitglieder
-
+[[Felicia (Ignatius)]],
+[[Troll]] (Ex),
+[[Jakob (Jhonny)]] (Ex),
 
 ## Basis Ort

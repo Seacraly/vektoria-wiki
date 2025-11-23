@@ -10,4 +10,3 @@ Eine Bibliotek in [[Glitzerquell]] angefangen von [[Kathelyn Beynon RIP]] währe
 ## Karte
 
 
-## Interaktive Karte (Funktioniert nicht Online bitte ignorieren)

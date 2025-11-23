@@ -1,4 +1,4 @@
-## wer
+## Wer
 [[Felicia (Ignatius)]]
 
 ## Wo

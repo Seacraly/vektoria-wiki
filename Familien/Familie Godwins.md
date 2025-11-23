@@ -8,3 +8,4 @@ Eine Händlerfamilie die nicht aus Vektoria Kommt.
 [[Mathilda Godwins]]
 
 ## Herkunftsort
+Außerhalb Vektoria
