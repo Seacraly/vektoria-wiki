@@ -6,7 +6,7 @@ Eine Organisation der [[Akademie der Übernatürlichen Künste]], welche für di
 
 ## Mitglieder
 [[Fiber Flyingstone]]
-[[Kazmuk]]
+[[NPCs/Kazmuk]]
 [[Jathal]]
 
 ## Basis Ort

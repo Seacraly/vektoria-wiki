@@ -7,6 +7,6 @@ Der 2. Rang der [[Akademie der Übernatürlichen Künste]]
 ## Mitglieder
 [[Fiber Flyingstone]]
 [[Jathal]]
-[[Kazmuk]]
+[[NPCs/Kazmuk]]
 
 ## Basis Ort

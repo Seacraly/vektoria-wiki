@@ -5,7 +5,7 @@ Eine der zwei großen Händlergilden in Eldorad.
 Anführer: [[Gottfried Godwins]]
 
 ## Mitglieder
-[[tako]] (Oberster Representant in Eldorad)
+[[Tako]] (Oberster Representant in Eldorad)
 [[Domos]]
 [[Mik Robson]]
 [[Quey]]
