@@ -1,5 +1,5 @@
 ## Beschreibung
-Eine Taverne in [[Eldorad]]. Verkauft die besten Getränke, sie kosten aber auch so viel.
+Eine Taverne in [[Eldorad]]. Verkauft die besten Getränke, sie kosten aber auch entsprechend.
 
 ## Wichtige Leute
 [[Ignatius]]  (Besitzer)

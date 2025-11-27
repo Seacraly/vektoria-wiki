@@ -17,3 +17,11 @@
 [[23 Drei Kämpfer und ein Diplomat (die Arena von Selentis)]] Loot?
 
 [[24 Geschichten aus Selentis]] was hat Myrddin von Kaylin gekauft?
+
+[[25 Im Schlangennest]] Haben wir die Kiste geöffnet oder haben wir sie Pax wiedergegeben.
+
+[[26 Ein sicherer Hafen]] und [[27 Ein Schiff, ein Monster und eine Maus]] Ich habe mir keine Notizen gemacht und erinnere mich nicht ganz was passiert ist :(
+
+[[28 Ein neues Zuhause]] Welche Antwort gab Bon Banjo
+
+Wann haben wir mit [[Draga Vernichterschädel]] geredet und die Einladung [[29 Aufnahmeprüfung der Akademie]] bekommen?

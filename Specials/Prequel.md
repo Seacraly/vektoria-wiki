@@ -3,7 +3,7 @@ Spielercharaktere:
 [[Qari]],
 [[Gromdor Vernichterschädel]],
 [[Zelari Abbylon]],
-[[Sephyra]]
+[[Zephyra]]
 
 NPCs:
 [[Kaylin]],

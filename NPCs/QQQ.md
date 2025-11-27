@@ -8,6 +8,6 @@ Forscher der [[Wilde Magie]] und Mentor der mächtigsten wilden Magier. Trägt h
 
 
 ## Bekannte
-[[Sephyra]]
+[[Zephyra]]
 
 ## Ort

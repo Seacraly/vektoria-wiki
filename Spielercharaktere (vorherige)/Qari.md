@@ -10,7 +10,7 @@ Eine Pyriarin und Ranger, zusammen mit ihrem treuen Gefährten, der Feuerwog [[S
 
 ## Bekannte
 Alte Gruppenmitglieder:
-[[Sephyra]],
+[[Zephyra]],
 [[Gromdor Vernichterschädel]],
 [[Zelari Abbylon]]
 

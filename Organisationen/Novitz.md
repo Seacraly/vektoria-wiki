@@ -1,5 +1,5 @@
 ## Beschreibung
-Der unterste Rang der [[Akademie der Übernatürlichen Künste]]. Um diesen Rang zu bekommen, muss man die [[Aufnahmeprüfung der Akademie]] bestehen.
+Der unterste Rang der [[Akademie der Übernatürlichen Künste]]. Um diesen Rang zu bekommen, muss man die [[29 Aufnahmeprüfung der Akademie]] bestehen.
 
 ## Leitung
 

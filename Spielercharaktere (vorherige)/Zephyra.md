@@ -1,6 +1,6 @@
 ![[Player card Sephyra.jpg|370]]
 ## Beschreibung
-Eine Wilde Magierin ursprünglich aus [[Glitzerquell]]. Jetzt ist sie teil der Akademie.
+Gnom und wilde Magierin, welche in den Gassen von [[Glitzerquell]] als Verachtete aufwuchs. Schloss sich der [[Akademie der Übernatürlichen Künste]] an um endlich akzeptiert werden zu können.
 
 ## Organisation
 [[Akademie der Übernatürlichen Künste]]

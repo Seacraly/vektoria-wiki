@@ -9,5 +9,6 @@ Angehöriger eines Schlagenvolkes und Spion von [Mortimer], mit dem Auftrag Mate
 
 ## Bekannte
 [[Mortimer]]
+[[Pax]]
 
 ## Ort

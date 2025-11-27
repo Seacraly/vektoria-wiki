@@ -5,7 +5,7 @@ Starke Kämpferin mit großen Ambitionen. Kann ihren Cousin [[Gromdor Vernichter
 
 
 ## Familie
-
+[[Familie Vernichterschädel]]
 
 ## Bekannte
 

@@ -10,7 +10,7 @@ Ein wohlerzogener und gutmütiger Ork, dem es nicht an Talent mangelt. Hat sich 
 
 ## Bekannte
 Alte Gruppenmitglieder:
-[[Sephyra]],
+[[Zephyra]],
 [[Qari]],
 [[Zelari Abbylon]]
 
