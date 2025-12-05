@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/30 Ein See aus Dunkelheit.md",
+                "file": "NPCs/Kajal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30 Ein See aus Dunkelheit"
+              "title": "Kajal"
             }
           }
         ]
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/30 Ein See aus Dunkelheit.md",
+                "file": "NPCs/Kajal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 30 Ein See aus Dunkelheit"
+              "title": "Graph of Kajal"
             }
           }
         ],
@@ -219,9 +219,15 @@
   },
   "active": "ae7ed39aaf0bdc5f",
   "lastOpenFiles": [
-    "Events/29 Aufnahmeprüfung der Akademie.md",
     "Events/30 Ein See aus Dunkelheit.md",
     "NPCs/Kajal.md",
+    "Untitled.md",
+    "Events/29 Aufnahmeprüfung der Akademie.md",
+    "Spielercharaktere/Cuthral Marchog.md",
+    "Spielercharaktere/Theodomedikt Erzhüter.md",
+    "Spielercharaktere/Spatzenhirn.md",
+    "Spielercharaktere/Myrddin Beynon.md",
+    "Spielercharaktere/Henry Godwins.md",
     "NPCs/Sparki.md",
     "NPCs/Loscivia.md",
     "Kazmuk.md",
@@ -239,12 +245,6 @@
     "Events/27 Ein Schiff, ein Monster und eine Maus.md",
     "Städte/Eldorad.md",
     "NPCs/Ilyat Vernichterschädel.md",
-    "Familien/Familie Vernichterschädel.md",
-    "NPCs/Draga Vernichterschädel.md",
-    "Fehlende Info.md",
-    "Events/28 Ein neues Zuhause.md",
-    "Orte/Haus der Gruppe.md",
-    "Orte/Drachenrose.md",
     "Bilder/Player card Gromdor.jpg",
     "Bilder/Player card Sephyra.jpg",
     "Bilder/Player card Qari.jpg",
