@@ -6,7 +6,7 @@ Spielercharaktere:
 [[Zephyra]]
 
 NPCs:
-[[Kaylin]],
+[[Caelyn]],
 [[Mik Robson]],
 
 ## Wo

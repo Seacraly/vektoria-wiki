@@ -1,5 +1,5 @@
 ## Beschreibung
-Showmagier im Zirkus, Sein Humor ist meist beeindruckender als siene Magie.
+Showmagier im Zirkus, Sein Humor ist meist beeindruckender als seine Magie.
 
 ## Ort
 

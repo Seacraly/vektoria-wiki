@@ -1,5 +1,5 @@
 ## Beschreibung
-Anfürer der [[Händlergilde Löwenherz]]
+Ein reicher Geschäftsmann und Anführer der [[Händlergilde Löwenherz]]. 
 
 ## Organisation
 [[Händlergilde Löwenherz]]

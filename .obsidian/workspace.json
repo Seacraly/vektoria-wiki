@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objekte/Magische Bohnen.md",
+                "file": "NPCs/Meridia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magische Bohnen"
+              "title": "Meridia"
             }
           }
         ]
@@ -167,6 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NPCs/Meridia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Meridia"
             }
           }
         ],
@@ -216,48 +217,49 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6eb20e384e4cb341",
+  "active": "ae7ed39aaf0bdc5f",
   "lastOpenFiles": [
-    "Objekte/Magische Bohnen.md",
-    "Untitled.md",
-    "Fehlende Info.md",
-    "index.md",
-    "NPCs/Kajal.md",
-    "Events/30 Ein See aus Dunkelheit.md",
-    "Events/29 Aufnahmeprüfung der Akademie.md",
-    "Spielercharaktere/Cuthral Marchog.md",
+    "NPCs/Mathilda Godwins.md",
+    "NPCs/Mik Robson.md",
+    "NPCs/Meridia.md",
+    "NPCs/Mars.md",
+    "NPCs/Malakai.md",
+    "NPCs/Maelgwyn Ravencliff.md",
     "Spielercharaktere/Theodomedikt Erzhüter.md",
-    "Spielercharaktere/Spatzenhirn.md",
-    "Spielercharaktere/Myrddin Beynon.md",
-    "Spielercharaktere/Henry Godwins.md",
-    "NPCs/Sparki.md",
-    "NPCs/Loscivia.md",
-    "Kazmuk.md",
+    "Organisationen/Maelgwyns Engel.md",
+    "NPCs/Madeleine.md",
+    "NPCs/Lysandro.md",
     "NPCs/Nabasu.md",
-    "NPCs/Tajo.md",
-    "NPCs/Rocky.md",
-    "NPCs/Jeremy.md",
-    "NPCs/Tako.md",
     "NPCs/Lyra Schleiersturm.md",
-    "Geschichte/Schließungen der Minen.md",
-    "Geschichte/Wilde Magie.md",
-    "Geschichte/Die Ebenen.md",
-    "Geschichte/Schwert-Tattoo.md",
-    "Geschichte/Donnervogel.md",
+    "NPCs/Lucius RIP.md",
+    "NPCs/Loscivia.md",
+    "NPCs/Leovian Löwenherz.md",
+    "NPCs/Krabaton.md",
+    "NPCs/Korion RIP.md",
+    "Objekte/Magische Bohnen.md",
+    "Gefängnisausbruch.md",
+    "NPCs/Knolli.md",
+    "NPCs/Kiera.md",
+    "NPCs/Kelda.md",
+    "NPCs/Kazmuk.md",
+    "NPCs/Kathelyn Beynon RIP.md",
+    "NPCs/Flari.md",
+    "NPCs/Caelyn.md",
+    "Bilder/Cuthral_Marchog.png",
+    "Bilder/Balora.jpg",
+    "Bilder/Die_Oase_von_Eldorad.jpg",
+    "Bilder/Eldorad_Handlerkreuz.jpg",
+    "Bilder/Henry.jpg",
+    "Bilder/Insel_Gefängniss_Floor_1_PV.jpg",
+    "Bilder/Insel_Gefängniss_Floor_2_PV.jpg",
+    "Bilder/Myrddin portrait 2.2.png",
     "Bilder/Player card Gromdor.jpg",
-    "Bilder/Player card Sephyra.jpg",
     "Bilder/Player card Qari.jpg",
-    "Bilder/Player card Gandor.jpg",
-    "Bilder/Player card Zelari.jpg",
-    "Bilder/Polopops_Hütte.jpg",
     "Specials",
     "Spielercharaktere (vorherige)",
     "Relationships/Familie Ravencliff.canvas",
     "Relationships/Familie Godwins.canvas",
     "Relationships/Familie Beynon.canvas",
-    "Bilder/Myrddin portrait 2.2.png",
-    "Bilder/Henry.jpg",
-    "Bilder/Spatzenhirn.jpg",
     "Relationships",
     "Familien",
     "Geschichte",
@@ -265,7 +267,6 @@
     "Städte",
     "Organisationen",
     "Objekte",
-    "NPCs",
-    "Bilder/Insel_Gefängniss_Floor_2_PV.jpg"
+    "NPCs"
   ]
 }

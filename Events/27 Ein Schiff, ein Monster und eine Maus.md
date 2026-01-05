@@ -1,6 +1,6 @@
 ## Wer
 [[Sariel]],
-[[Korion]] (vielleicht)
+[[Korion RIP]] (vielleicht)
 
 ## Wo
 

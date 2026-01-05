@@ -9,7 +9,7 @@ Ein mysteriöser Gnom und Hauptpartner von [[Pax]] Verwaltet die Ressourcen der 
 
 ## Bekannte
 [[Pax]] (Partner)
-[[Grullor, Trakk & Morgash Blutaxt]]
+[[Grullor, Trakk & Morgash Blutaxt RIP]]
 [[Diablos]]
 [[Todd RIP - Xyll]] 
 

@@ -1,5 +1,5 @@
 ## Beschreibung
-Ein Kleriker des [[Irori]], allerdings mit eher gemäßigten Ansichten. Baute eine Beziehung zu [[Theodomedikt Erzhüter]] auf.
+Ein Kleriker des [[Irori]], allerdings mit eher gemäßigten Ansichten. Baute eine Beziehung zu [[Theodomedikt Erzhüter]] bei der [[29 Aufnahmeprüfung der Akademie]] auf.
 
 ## Organisation
 

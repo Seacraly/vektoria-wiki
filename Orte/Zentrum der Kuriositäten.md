@@ -2,7 +2,7 @@
 Eine Gasse wo man nicht so leicht wieder herausfindet. Hier verkaufen Händler Sachen die man vielleicht nicht so offen verkaufen kann.
 
 ## Wichtige Leute
-[[Der Kopfjäger]],
+[[Akki der Kopfjäger]],
 [[Die Schwarze Magierin]]
 
 ## Events

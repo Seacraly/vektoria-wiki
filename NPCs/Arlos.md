@@ -1,5 +1,5 @@
 ## Beschreibung
-Goblin und Medizinhändler. Die Gruppe brachte ihr seine [[Drachenuhr]] zurück, welche ihn an seine  verstorbene Frau erinnert
+Halbling und bescheidener Medizinhändler. Die Gruppe brachte ihm seine [[Drachenuhr]] zurück, welche ihn an seine verstorbene Frau erinnert. Sie war sein größter Schatz. Schenkte der Gruppe den Schlüssel zu seiner alten Scheune, falls sie jemals keinen Ort zum übernachten haben. 
 
 ## Ort
 [[Eldorad]]

@@ -8,6 +8,6 @@ Halbelf und wilder Magier aus [[Glitzerquell]], in [[Selentis]] gesuchter Verbre
 
 
 ## Bekannte
-[[Korion]]
+[[Korion RIP]]
 
 ## Ort

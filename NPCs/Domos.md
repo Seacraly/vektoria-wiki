@@ -1,5 +1,5 @@
 ## Beschreibung
-Halbelf, vekauft einfache Lederware für Familie Godwins auf dem Marktplatz in [[Eldorad]].
+Halbelf, verkauft einfache Lederware für Familie Godwins auf dem Marktplatz in [[Eldorad]].
 
 ## Organisation
 [[Händlergilde Godwins]]
