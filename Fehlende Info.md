@@ -25,3 +25,5 @@
 [[28 Ein neues Zuhause]] Welche Antwort gab Bon Banjo
 
 Wann haben wir mit [[Draga Vernichterschädel]] geredet und die Einladung [[29 Aufnahmeprüfung der Akademie]] bekommen?
+
+[[29.2 Neue Verbündete der kleinen Variante]] Gegen wen haben wir gekämpft?

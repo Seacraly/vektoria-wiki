@@ -54,8 +54,8 @@ Jede Gruppe bekommt 3 Münzen, um die Arena zu verlassen und von der Akademie au
 Die Arena ist in vier Zonen aufgeteilt: Eis, Dunkelheit, Mechanisch und Feuer. Im Zentrum ist eine Grüne Fläche mit Wald. Dies ist auch die einzige Zone wo Essen gefunden werden kann. 
 
 ### Events
-
-[[30 Ein See aus Dunkelheit]]
+[[29.1 Ein See aus Dunkelheit]]
+[[29.2 Neue Verbündete der kleinen Variante]]
 
 
 
