@@ -53,10 +53,10 @@ Jede Gruppe bekommt 3 [[Akademieprüfungsmünze]]n, um die Arena zu verlassen un
 
 Die Arena ist in vier Zonen aufgeteilt: Eis, Dunkelheit, Mechanisch und Feuer. Im Zentrum ist eine Grüne Fläche mit Wald. Dies ist auch die einzige Zone wo Essen gefunden werden kann. 
 
-### Events
+## Events
 [[29.1 Ein See aus Dunkelheit]]
 [[29.2 Neue Verbündete der kleineren Variante und die erste Dungeon]]
-
+[[29.3 Gefängnisausbruch (A new Hope)]]
 
 
 

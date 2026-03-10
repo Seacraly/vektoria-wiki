@@ -27,3 +27,5 @@
 Wann haben wir mit [[Draga Vernichterschädel]] geredet und die Einladung [[29 Aufnahmeprüfung der Akademie]] bekommen?
 
 [[29.2 Neue Verbündete der kleineren Variante und die erste Dungeon]] Gegen wen haben wir gekämpft um die münzen wiederzubekommen? // Wer hatte den Shop in dungeon Nr. 2 // wie haben wir die steine entfernt (explosion?) // Wer hat das Rätzel mit der Kette Gelöst?
+
+[[29.3 Gefängnisausbruch (A new Hope)]] Wen trafen wir in der Dungeon, ich habe mir nur aufgeschrieben, dass es jemand von der Diebes Guilde war.
