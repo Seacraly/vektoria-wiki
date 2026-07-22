@@ -2,7 +2,7 @@
 Die Mitglieder tragen Umhänge ([[Roter Umhang]]). Arbeiten mit [[Eldrics Schatten]] zusammen.
 
 ## Leitung
-[[Eldrics Schatten]]
+[[Maelgwyn Ravencliff]]
 
 ## Mitglieder
 [[Felicia (Ignatius)]],

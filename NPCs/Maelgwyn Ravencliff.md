@@ -5,6 +5,7 @@ In [[Balora]] existiert der [[Tempel des allsehenden Auges]], dessen Anhänger m
 
 ## Organisation
 [[Maelgwyns Engel]]
+[[Eldrics Schatten]]
 
 ## Familie
 [[Familie Ravencliff]]

@@ -29,3 +29,7 @@ Wann haben wir mit [[Draga Vernichterschädel]] geredet und die Einladung [[29 A
 [[29.2 Neue Verbündete der kleineren Variante und die erste Dungeon]] Gegen wen haben wir gekämpft um die münzen wiederzubekommen? // Wer hatte den Shop in dungeon Nr. 2 // wie haben wir die steine entfernt (explosion?) // Wer hat das Rätzel mit der Kette Gelöst?
 
 [[29.3 Gefängnisausbruch (A new Hope)]] Wen trafen wir in der Dungeon, ich habe mir nur aufgeschrieben, dass es jemand von der Diebes Guilde war.
+
+[[31 Aufbruch - die erste Quest der Akademie]] Ich habe mir keine Notizen gemacht (Jemand wartete auf uns. Wir kämpfen und Karsten rettete uns vor dem ertrinken und dann schickten wir irgendjemanden los, um für uns zu fischen??) Wer stand zur Wahl in Balora?
+
+[[32 Tempel hinter dem Wasserfall]] Wieder keine Notizen vom Ablauf im Tempel oder warum wir da waren.
