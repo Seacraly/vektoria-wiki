@@ -1,10 +1,10 @@
 ## Beschreibung
-Hoch im westlichen Gebirge befindet sich eine massive Stadt, in der es nur so von Zwergen wimmelt. Den Geschichtsbüchern zur Folge existierte Balora seit Anbeginn der Aufzeichnungen und ist damit vermutlich sogar älter als Selentis selbst. In vergangenen Zeiten war Balora die vermutlich wohlhabendste Region des ganzen Landes. Keine andere Stadt förderte derart viele Erze und mit Selentis als starkem Handelspartner erstrahlte die Region. Die Zwerge sind besonders stolz auf ihre Traditionen und laden in ihren Gasthäusern ein, an der reichen Kultur und ihrem lebhaften Alltag teilzunehmen.
+Hoch im westlichen Gebirge befindet sich eine massive Stadt, in der es nur so von Zwergen wimmelt. Den Geschichtsbüchern zur Folge existierte Balora seit Anbeginn der Aufzeichnungen und ist damit vermutlich sogar älter als [[Selentis]] selbst. In vergangenen Zeiten war Balora die vermutlich wohlhabendste Region des ganzen Landes. Keine andere Stadt förderte derart viele Erze und mit [[Selentis]] als starkem Handelspartner erstrahlte die Region. Die Zwerge sind besonders stolz auf ihre Traditionen und laden in ihren Gasthäusern ein, an der reichen Kultur und ihrem lebhaften Alltag teilzunehmen.
 
-Die Entscheidung zur Schließung der Minen nach dem Angriff des Drachen war ein gewaltiger Schock. Da [[Venomir]] die Berge nie erreichte, wurde die Bedrohung als gering und die Entscheidung für überstürzt erachtet. Zur großen Enttäuschung ignorierte Selentis die Einwände und das Verhältnis zur Hauptstadt kühlte stark ab. Aufgrund ihrer Meisterschmiede und überragenden Schmelzöfen konnte sich Balora durch Waffen- und Rüstungsexporte eine zuverlässige Einnahmequelle sichern, doch die alten glanzvollen Zeiten blieben bis heute unerreicht. Demnach protestieren Zwerge regelmäßig über die Entscheidung des heiligen Rates und fordern die Wiedereröffnung der Minen.
+Die Entscheidung zur Schließung der Minen nach dem Angriff des Drachen war ein gewaltiger Schock. Da [[Venomir]] die Berge nie erreichte, wurde die Bedrohung als gering und die Entscheidung für überstürzt erachtet. Zur großen Enttäuschung ignorierte [[Selentis]] die Einwände und das Verhältnis zur Hauptstadt kühlte stark ab. Aufgrund ihrer Meisterschmiede und überragenden Schmelzöfen konnte sich Balora durch Waffen- und Rüstungsexporte eine zuverlässige Einnahmequelle sichern, doch die alten glanzvollen Zeiten blieben bis heute unerreicht. Demnach protestieren Zwerge regelmäßig über die Entscheidung des heiligen Rates und fordern die Wiedereröffnung der Minen.
 
 ## Wichtige Leute
-
+[[Familie Donnerzorn]],
 
 ## Events
 

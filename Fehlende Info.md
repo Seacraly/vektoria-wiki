@@ -33,3 +33,7 @@ Wann haben wir mit [[Draga Vernichterschädel]] geredet und die Einladung [[29 A
 [[31 Aufbruch - die erste Quest der Akademie]] Ich habe mir keine Notizen gemacht (Jemand wartete auf uns. Wir kämpfen und Karsten rettete uns vor dem ertrinken und dann schickten wir irgendjemanden los, um für uns zu fischen??) Wer stand zur Wahl in Balora?
 
 [[32 Tempel hinter dem Wasserfall]] Wieder keine Notizen vom Ablauf im Tempel oder warum wir da waren.
+
+[[33 Balora und, ein nicht so heiliger Tempel]] mit wem haben wir gegambled und wann trafen wir Dylan?
+
+[[34 Der Tempel des Allsehenden Auges]] Fiber Flyingsone macht was? Was haben Dylan und Myrddin besprochen.

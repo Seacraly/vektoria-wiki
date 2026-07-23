@@ -6,6 +6,7 @@ Die Mitglieder tragen Umhänge ([[Roter Umhang]]). Arbeiten mit [[Eldrics Schatt
 
 ## Mitglieder
 [[Felicia (Ignatius)]],
+[[Zarika]]
 [[Troll]] (Ex),
 [[Jakob (Jhonny)]] (Ex),
 

@@ -3,7 +3,7 @@ Spielercharaktere:
 [[Henry Godwins]],
 [[Theodomedikt Erzhüter]],
 [[Spatzenhirn]],
-([[Fizzi Feuerfinger]] oder [[Bon Banjo, Bonaventur]])
+[[Fizzi Feuerfinger]]
 
 NPCs:
 [[Madeleine]],

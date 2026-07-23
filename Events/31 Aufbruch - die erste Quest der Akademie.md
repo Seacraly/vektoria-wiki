@@ -9,7 +9,7 @@ Es werden Kinder vermisst und alles zeigt in Richtung [[Balora]]. Die [[Akademie
 
 [[Fehlende Info]] 
 
-Als wir im Balora ankamen, sahen wir, dass dort gerade die Wahl für den Anführer von [[Balora]] stattfand. Die Hauptkandidaten waren [[Fehlende Info]]  von den Familien [[Familie Donnerzorn]] und [[Familie Vernichterschädel]]
+Als wir im Balora ankamen, sahen wir, dass dort gerade die Wahl für den Anführer von [[Balora]] stattfand. Die Hauptkandidaten waren [[Fehlende Info]]  von den Familien [[Familie Donnerzorn]] und [[Fehlende Info]]
 Wir suchten die Stadt nach Anzeichen der Kinder ab und fanden eine spur die in Richtung der stillgelegenen Mienen zeigte. Erst suchten wir uns aber einen Ort um zu Rasten und Fragten die Einheimischen um Information über die Stadt.
 
 	(sehen wir hier schon Balthazar und/oder Dylan?)
